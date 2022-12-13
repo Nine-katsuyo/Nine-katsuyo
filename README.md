@@ -29,7 +29,6 @@ Hey, I'm Nine, a learner
 
 **Stats:**  
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2962%20hrs%204%20mins-blue)
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nine-katsuyo&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nine-katsuyo&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nine-katsuyo&theme=tokyonight&hide=batchfile">
 
