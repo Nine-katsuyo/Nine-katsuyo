@@ -14,7 +14,7 @@ Hey, I'm Nine, a learner
 <br>
 
 ---
-<a href=
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
